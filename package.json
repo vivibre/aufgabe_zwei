@@ -1,0 +1,23 @@
+{
+  "name": "aufgabe_zwei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diamond.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivibre/aufgabe_zwei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivibre/aufgabe_zwei/issues"
+  },
+  "homepage": "https://github.com/vivibre/aufgabe_zwei#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
